@@ -4,4 +4,4 @@ import PdePreludat
 doble :: Number -> Number
 doble numero = numero + numero
 
-meterMano = "si" 
+pongamos algo mas choto
