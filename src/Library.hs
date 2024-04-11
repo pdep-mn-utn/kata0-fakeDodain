@@ -7,4 +7,4 @@ interes montoDepositado nombre
   | montoDepositado > 500 = 10 * length nombre
   | otherwise = montoDepositado / 7
 
-  
+siguiente = (+) 1
