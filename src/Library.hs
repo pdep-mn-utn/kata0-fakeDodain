@@ -8,3 +8,5 @@ interes montoDepositado nombre
   | otherwise = montoDepositado / 7
 
 siguiente = (+) 1
+
+doble = (*) 2
