@@ -10,3 +10,4 @@ interes montoDepositado nombre
 siguiente :: Number -> Number
 siguiente = (+) 1
 
+doble = (*) 2
