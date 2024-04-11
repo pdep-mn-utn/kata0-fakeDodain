@@ -1,6 +1,6 @@
 module Library where
 import PdePreludat
-
+type Nombre = String
 interes:: Number -> String -> Number
 interes montoDepositado nombre 
   | montoDepositado > 1000 = min (montoDepositado * 0.1) 500
